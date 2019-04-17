@@ -4,7 +4,7 @@ def reverse_each_word(sentence)
     print "#{word.reverse} "
   end
     arr.join(" ")
-  sentence.reverse
+  # sentence.reverse
 end
 
 def reverse_each_word(sentence)
